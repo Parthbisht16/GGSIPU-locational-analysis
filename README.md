@@ -4,6 +4,10 @@ This project involves the use of K-Means Clustering to find the best accommodati
 
 GGSIPU_locational_analysis_FINAL.ipynb - https://github.com/Parthbisht16/GGSIPU-locational-analysis/blob/main/GGSIPU_locational_analysis_FINAL.ipynb
 
-food_coded.csv - https://github.com/Parthbisht16/GGSIPU-locational-analysis/blob/main/References/food_coded.csv
+food_coded.csv - Values regarding habits of students regarding various parameters
+                 https://github.com/Parthbisht16/GGSIPU-locational-analysis/blob/main/References/food_coded.csv
 
-codebook_food.docx - https://github.com/Parthbisht16/GGSIPU-locational-analysis/blob/main/References/codebook_food.docx
+codebook_food.docx - Document explaining the meaning of values in food_coded.csv 
+                     https://github.com/Parthbisht16/GGSIPU-locational-analysis/blob/main/References/codebook_food.docx
+                    
+Project document from crio.do - https://github.com/Parthbisht16/GGSIPU-locational-analysis/blob/main/References/Geolocational%20Data%20Analysis.pdf                     
