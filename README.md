@@ -2,7 +2,7 @@
 
 This project involves the use of K-Means Clustering to find the best accommodation for students in Delhi (or any other city of your choice) by classifying accommodation for incoming students on the basis of their preferences on amenities, budget and proximity to the location.
 
-GGSIPU_locational_analysis_FINAL.ipynb - https://github.com/Parthbisht16/GGSIPU-locational-analysis/blob/main/GGSIPU_locational_analysis_FINAL.ipynb
+GGSIPU_locational_analysis_FINAL_Copy1.ipynb - https://github.com/Parthbisht16/GGSIPU-locational-analysis/blob/main/GGSIPU_locational_analysis_FINAL_Copy1.ipynb
 
 food_coded.csv - Values regarding habits of students regarding various parameters
                  https://github.com/Parthbisht16/GGSIPU-locational-analysis/blob/main/References/food_coded.csv
