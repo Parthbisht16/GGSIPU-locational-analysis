@@ -10,4 +10,6 @@ food_coded.csv - Values regarding habits of students regarding various parameter
 codebook_food.docx - Document explaining the meaning of values in food_coded.csv 
                      https://github.com/Parthbisht16/GGSIPU-locational-analysis/blob/main/References/codebook_food.docx
                     
-Project document from crio.do - https://github.com/Parthbisht16/GGSIPU-locational-analysis/blob/main/References/Geolocational%20Data%20Analysis.pdf                     
+Project document from crio.do - https://github.com/Parthbisht16/GGSIPU-locational-analysis/blob/main/References/Geolocational%20Data%20Analysis.pdf    
+
+Project Report - https://github.com/Parthbisht16/GGSIPU-locational-analysis/blob/main/GGSIPU_LOCATIONAL_ANALYSIS%20(1).pdf
